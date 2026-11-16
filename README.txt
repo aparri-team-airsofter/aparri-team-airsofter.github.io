@@ -5,7 +5,7 @@
 - `styles.css` — responsive dark-green tactical styling
 - `script.js` — contact links and registration behavior
 - `assets/Neon Jungle Airsoft Emblem.png` — original editable vector team emblem
-- `assets/design-preview.png` — generated design concept reference (if included)
+- `assets/Neon Green Airsoft Team Banner.jpg` — generated design concept reference (if included)
 
 ## Before publishing: edit these details
 Open `script.js` in a text editor and replace:
