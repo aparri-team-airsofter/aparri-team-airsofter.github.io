@@ -4,7 +4,7 @@
 - `index.html` — all website content and sections
 - `styles.css` — responsive dark-green tactical styling
 - `script.js` — contact links and registration behavior
-- `assets/team-logo.svg` — original editable vector team emblem
+- `assets/Neon Jungle Airsoft Emblem.png` — original editable vector team emblem
 - `assets/design-preview.png` — generated design concept reference (if included)
 
 ## Before publishing: edit these details
