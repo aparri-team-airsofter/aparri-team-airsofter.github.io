@@ -1,6 +1,6 @@
 // EDIT THESE TWO SETTINGS before publishing:
-const TEAM_EMAIL = "REPLACE-WITH-YOUR-TEAM-EMAIL@example.com";
-const FACEBOOK_PAGE_URL = "https://www.facebook.com/REPLACE-WITH-YOUR-PAGE";
+const TEAM_EMAIL = "hn6757464@gmail.com";
+const FACEBOOK_PAGE_URL = "https://www.facebook.com/share/1JGkHgNkRY/?mibextid=qi2Omg";
 
 // Optional: paste your Google Form URL here to send visitors to your online registration form.
 // Example: https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform
