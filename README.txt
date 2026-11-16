@@ -25,7 +25,7 @@ Use photos you own or have permission to publish. If you don't have photos yet, 
 
 ## Publish free with GitHub Pages
 1. Sign in at https://github.com/
-2. Create a **public** repository named exactly `YOUR-GITHUB-USERNAME.github.io`.
+2. Create a **public** repository named exactly `aparri-team-airsofter.github.io`.
 3. Extract this ZIP file on your computer.
 4. Upload the contents of the extracted folder (not the outer folder) into the repository's root. Keep the `assets` folder.
 5. Commit the files to the `main` branch.
