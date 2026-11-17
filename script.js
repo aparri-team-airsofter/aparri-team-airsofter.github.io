@@ -4,7 +4,7 @@ const FACEBOOK_PAGE_URL = "https://www.facebook.com/share/1JGkHgNkRY/?mibextid=q
 
 // Optional: paste your Google Form URL here to send visitors to your online registration form.
 // Example: https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform
-const GOOGLE_FORM_URL = "";
+const GOOGLE_FORM_URL = "https://forms.gle/yEDjH8CNrUAxmFZY8";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
